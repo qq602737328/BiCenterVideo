@@ -1,0 +1,6 @@
+framework module BiCenterVideoSDK {
+  umbrella header "BiCenterVideoSDK.h"
+
+  export *
+  module * { export * }
+}
