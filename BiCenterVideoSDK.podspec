@@ -40,7 +40,7 @@ Pod::Spec.new do |spec|
   #
 
   #spec.license      = "MIT (example)"
-   spec.license      = { :type => "Bohoog", :file => "Copyright © 2023 Bohoog. All rights reserved.　" }
+   spec.license      = { :type => "Bohoog", :text => "Copyright © 2023 Bohoog. All rights reserved.　" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
